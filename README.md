@@ -6,3 +6,10 @@
 
 - git config --global alias.co "commit" で，commitをcoと省略した．
 - https://${あなたのusername}.github.io/git-study/などでgh-pagesのWebサイトが見れるぞ！
+
+- ブランチ
+    - master:常にリリース可能な状態にしておく
+    - develop:ここで開発を行っていく
+    - feature:新規機能，バグ修正．developからcommitしてdevelopにmerge
+    - release:リリースを行う準備，最終確認
+    - hotfix:緊急の修正のブランチ，masterに直接merge
