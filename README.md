@@ -5,3 +5,4 @@
 - git push コマンドで、ローカルのコミットをリモートのリポジトリに反映させることができる
 
 - git config --global alias.co "commit" で，commitをcoと省略した．
+- https://${あなたのusername}.github.io/git-study/などでgh-pagesのWebサイトが見れるぞ！
